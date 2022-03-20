@@ -19,3 +19,14 @@ C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\Agência de Viag
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\Agência de Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\Agência de Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.exe
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\Agência de Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.pdb
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\bin\Debug\Agência de Viagens.exe.config
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\bin\Debug\Agência de Viagens.exe
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\bin\Debug\Agência de Viagens.pdb
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência_de_Viagens.Form_agencia.resources
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência_de_Viagens.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.exe
+C:\Users\Eduardo\Documents\Progetos\Agencia_de_Viagens\Agência de Viagens\obj\Debug\Agência de Viagens.pdb
